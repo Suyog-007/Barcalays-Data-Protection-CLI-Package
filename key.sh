@@ -1,6 +1,6 @@
 #!/bin/sh
 
-#Author : devraj
+#Author : Suyog
 #Script is as follows
 
 # generate ASYM key at cloud
